@@ -1,41 +1,37 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# Compiled object files
 *.o
 *.obj
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# Executable files
 *.exe
 *.out
 *.app
 
-# debug information files
-*.dwo
+# Debug files
+*.log
+*.gch
+*.pch
+
+# Libraries and archives
+*.lib
+*.a
+*.so
+*.dll
+
+# IDE / Editor files
+.vscode/
+*.code-workspace
+*.cbp
+*.layout
+*.depend
+*.user
+*.suo
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Text/data files (optional: only if you don't want to upload)
+# library.txt
+# issued.txt
