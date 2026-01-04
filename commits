@@ -1,0 +1,30 @@
+Member 1 – 12 Commits(25011519-107)
+
+1	Initialized Git repository for Library Management System
+2	Created main Project.cpp file with class structure
+3	Implemented Author class with login function
+4	Added login validation for admin user
+5	Created Library class skeleton
+6	Implemented addBook() function
+7	Fixed input issues for book title in addBook()
+8	Added file handling for library.txt
+9	Tested adding multiple books successfully
+10	Connected menu options to Library class functions
+11	Fixed minor bugs in addBook() function
+12	Improved code formatting for readability
+
+Member 2 – 13 Commits(25011519-058)
+  
+1	Added .gitignore file
+2	Improved login messages and prompts
+3	Implemented issueBook() function
+4	Added file handling for issued.txt
+5	Handled multi-word student names input
+6	Implemented viewRecords() function for catalog and issued books
+7	Added headers for display of records
+8	Handled empty file scenario gracefully
+9	Implemented main menu loop
+10	Added exit option and input validation
+11	Fixed input buffer issues using cin.ignore()
+12	Improved formatting for console output
+13	Final testing of all modules
